@@ -12,7 +12,7 @@ export default function Home() {
                 <img src={avatar} alt="" />
                 </div>
                 <Heading  text={'Start Framework'} />
-
+                <p className='text-white'>Graphic Artist - Web Designer - Illustrator</p>
             </div>
         </>
     )
