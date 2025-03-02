@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@layer{
+  .row{
+    @apply flex flex-wrap;
+  }
+  .center{
+    @apply flex justify-center items-center;
+  }
+  .active{
+    background-color:#1ABC9C;
+    padding: 10px;
+    border-radius: 7px;
+  }
+}
